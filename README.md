@@ -19,7 +19,7 @@ After completing my education, I decided to transition into the data analytics f
     -
 - *Technologies*: SQL, Excel
 
-### [COVID-19 Report](https://github.com/balajee1108/COVID-19-Report)
+### [COVID-19 Report](https://github.com/Balajiselvam08/covid-19-dashboard)
 *Description*: To create an interactive and informative Power BI dashboard that provides real-time insights into COVID-19 statistics. The dashboard aims to visualize key metrics, track the spread of the virus, and support data-driven decision-making for public health authorities and the general public.
 
 - *Technologies*:
