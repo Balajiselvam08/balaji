@@ -29,7 +29,7 @@ After completing my education, I decided to transition into the data analytics f
   - Clear insights into the spread of the virus, vaccination progress, and regional differences.
   - Support for informed decision-making and public communication through accessible and actionable data..
 
-### [Call Center analysis](https://github.com/balajee1108/prime-video-dashboard)
+### [Call Center analysis](https://github.com/Balajiselvam08/Call-Center-Analysis)
 *Description*: I just completed PwC Switzerland's Power BI on Forage. In the simulation I:
  - Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
  - Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
